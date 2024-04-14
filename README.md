@@ -12,24 +12,48 @@ As a recent graduate with a Master's degree in Computing from Roehampton Univers
 - **Assistant Manager**: Candelabra Enterprises LTD | London, UK | Jul 2023 - Present
 
 🛠️ **Skills**  
-- Sales and Customer Service
-- Management
-- Logo and Graphics Design
-- Computing
-- Cybersecurity
-- Problem-Solving
-- Communication
-- Team Collaboration
-- Adaptability
-- Attention to Details
+1. **Technical Skills**
+   - Network Security
+   - Operating Systems
+   - VAPT (Vulnerability Assessment and Penetration Testing)
+   - Security Tools
+   - Encryption Technologies
+   - Secure Coding Practices
+
+2. **Security Governance and Compliance**
+   - Risk Management
+   - Compliance Frameworks
+   - Security Policies and Procedures
+   - Security Auditing and Monitoring
+
+3. **Incident Response and Forensics**
+   - Incident Detection and Response
+   - Digital Forensics
+   - Incident Handling Procedures
+
+4. **Communication and Collaboration**
+   - Effective Communication
+   - Team Collaboration
+   - Client Interaction
+
+5. **Continuous Learning and Adaptability**
+   - Stay Updated
+   - Adaptability
+   - 
+6. **Soft Skills**
+   - Problem-Solving
+   - Adaptability
+   - Attention to Detail
+   - Leadership
+   - Time Management
 
 📚 **Certificates & Training**
-- Preparing for CompTIA Security+ [Certificate Link]
-- Introduction to Ethical Hacking (GLAcademey) [Certificate Link]
-- Database Administration [Certificate Link]
+- Preparing for CompTIA Security+ 
+- Introduction to Ethical Hacking (GLAcademey) 
+- Database Administration 
 
 🎖️ **Badges & Certifications**
-- Google Generative AI [Badge Link]
+- Google Generative AI [(https://www.cloudskillsboost.google/course_templates/536)]
 
 🎯 **Objective**  
 My aim is to continuously grow and excel, surrounded by a team of motivated individuals. Eager to apply my skills and drive substantial growth in the cybersecurity field, I am committed to ongoing learning and professional development.
